@@ -21,8 +21,8 @@
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_UBE.png"
       },
       {
-        "address": "0x122013fd7dF1C6F636a5bb8f03108E876548b455",
-        "name": "Optics v2 WETH",
+        "address": "0xE919F65739c26a42616b7b8eedC6b5524d1e3aC4",
+        "name": "Optics v1 WETH",
         "symbol": "WETH",
         "chainId": 42220,
         "decimals": 18,
